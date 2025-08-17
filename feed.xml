@@ -3,7 +3,7 @@
     <title>solidair.in</title>
     <link href="https://solidair.github.io/solidair/feed.xml" rel="self" />
     <link href="https://solidair.github.io/solidair" />
-    <updated>2025-08-17T22:03:57+04:00</updated>
+    <updated>2025-08-17T22:53:46+04:00</updated>
     <author>
         <name>Solid Air</name>
     </author>
@@ -26,20 +26,20 @@
         <content type="html">
             <![CDATA[
                 <p> </p>
-<figure class="post__image">                   <img loading="lazy"  src="https://solidair.github.io/solidair/media/posts/2/solid-air-logo-small.png" alt="Solid Air Logo" width="400" height="392" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-xs.png 640w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-sm.png 768w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-md.png 1024w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-lg.png 1366w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-xl.png 1600w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-2xl.png 1920w"></figure>
-<table style="border-collapse: collapse; width: 100%;" border="1">
+<figure class="post__image">                              <img loading="lazy"  src="https://solidair.github.io/solidair/media/posts/2/solid-air-logo-small.png" alt="Solid Air Logo" width="400" height="392" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-xs.png 640w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-sm.png 768w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-md.png 1024w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-lg.png 1366w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-xl.png 1600w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-2xl.png 1920w"></figure>
+<table style="border-collapse: collapse; width: 107.407%; height: 126px;" border="1">
 <tbody>
 <tr>
-<td style="width: 24.9644%;">Country</td>
-<td style="width: 24.9644%;">Polution rate</td>
-<td style="width: 24.9644%;">Number of Trees</td>
-<td style="width: 24.9644%;">Number of ICE Vehicles</td>
+<td style="width: 25.0345%;">Country</td>
+<td style="width: 25.0345%;">Polution rate</td>
+<td style="width: 25.0345%;">Number of Trees</td>
+<td style="width: 25.0345%;">Number of ICE Vehicles</td>
 </tr>
 <tr>
-<td style="width: 24.9644%;"> </td>
-<td style="width: 24.9644%;"> </td>
-<td style="width: 24.9644%;"> </td>
-<td style="width: 24.9644%;"> </td>
+<td style="width: 25.0345%;"> </td>
+<td style="width: 25.0345%;"> </td>
+<td style="width: 25.0345%;"> </td>
+<td style="width: 25.0345%;"> </td>
 </tr>
 </tbody>
 </table>

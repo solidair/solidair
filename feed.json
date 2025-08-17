@@ -5,13 +5,14 @@
     "home_page_url": "https://solidair.github.io/solidair",
     "feed_url": "https://solidair.github.io/solidair/feed.json",
     "user_comment": "",
+    "icon": "https://solidair.github.io/solidair/media/website/Solid-Air-Dark-small.png",
     "author": {
         "name": "Solid Air"
     },
     "items": [
         {
-            "id": "https://solidair.github.io/solidair/welcome-to-solid-air-2.html",
-            "url": "https://solidair.github.io/solidair/welcome-to-solid-air-2.html",
+            "id": "https://solidair.github.io/solidair/welcome-to-solid-air-2/",
+            "url": "https://solidair.github.io/solidair/welcome-to-solid-air-2/",
             "title": "Welcome to Solid Air !",
             "content_html": "<p> </p>\n<figure class=\"post__image\">                   <img loading=\"lazy\"  src=\"https://solidair.github.io/solidair/media/posts/2/solid-air-logo-small.png\" alt=\"Solid Air Logo\" width=\"400\" height=\"392\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-xs.png 640w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-sm.png 768w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-md.png 1024w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-lg.png 1366w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-xl.png 1600w ,https://solidair.github.io/solidair/media/posts/2/responsive/solid-air-logo-small-2xl.png 1920w\"></figure>",
             "author": {

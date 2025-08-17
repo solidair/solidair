@@ -3,7 +3,7 @@
     <title>solidair.in</title>
     <link href="https://solidair.github.io/solidair/feed.xml" rel="self" />
     <link href="https://solidair.github.io/solidair" />
-    <updated>2025-08-17T22:53:46+04:00</updated>
+    <updated>2025-08-17T23:09:50+04:00</updated>
     <author>
         <name>Solid Air</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2025-08-17T21:08:47+04:00</updated>
             <summary>
                 <![CDATA[
-                    Country Polution rate Number of Trees Number of ICE Vehicles
+                    info@solidair.in
                 ]]>
             </summary>
         <content type="html">
@@ -43,6 +43,8 @@
 </tr>
 </tbody>
 </table>
+<p> </p>
+<p><a href="Mail us">info@solidair.in</a></p>
             ]]>
         </content>
     </entry>

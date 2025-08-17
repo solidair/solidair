@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "solidair.in",
+    "description": "",
+    "home_page_url": "https://solidair.github.io/solidair",
+    "feed_url": "https://solidair.github.io/solidair/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Solid Air"
+    },
+    "items": [
+    ]
+}

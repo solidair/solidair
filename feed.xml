@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>solidair.in</title>
+    <link href="https://solidair.github.io/solidair/feed.xml" rel="self" />
+    <link href="https://solidair.github.io/solidair" />
+    <updated>1970-01-01T04:00:00+04:00</updated>
+    <author>
+        <name>Solid Air</name>
+    </author>
+    <id>https://solidair.github.io/solidair</id>
+
+</feed>
